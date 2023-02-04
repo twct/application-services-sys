@@ -1,0 +1,3 @@
+/target
+# Cargo.lock file should be ignored for library crates
+/Cargo.lock
